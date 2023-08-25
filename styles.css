@@ -17,7 +17,8 @@ input{
 }
 .summary{
 	background:rgb(247, 251, 255);
-	border-top:2px solid rgb(94, 164, 243);
+	border-bottom:2px solid rgb(94, 164, 243);
+	padding:20px;
 }
 .summary_content{
 	display:flex;
