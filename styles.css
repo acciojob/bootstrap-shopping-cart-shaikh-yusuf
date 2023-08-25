@@ -16,10 +16,10 @@ input{
 	width:50%;
 }
 .summary{
-	background:#f7fbff;
+	background:rgb(247, 251, 255);
 	border-top:2px solid rgb(94, 164, 243);
 }
-.block-heading{
+.summary_content{
 	display:flex;
 	justify-content:space-between;	
 }
